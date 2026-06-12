@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "点我切源",
-      "name": "去【太太太硬了】领取嘟嘟盘免费容量",
+      "name": "豆瓣",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -625,6 +625,14 @@
     "fiizvfck.top=fan.cloudflare.182682.xyz"
   ],
   "lives": [
+    {
+      "name": "咪咕",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "playerType": 2,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
       "name": "develop202",
       "type": 0,
