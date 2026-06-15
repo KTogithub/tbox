@@ -1350,17 +1350,6 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/腾云驾雾[官].js"
     },
     {
-      "key": "push_agent",
-      "name": " ⬆推送",
-      "type": 3,
-      "api": "csp_PushGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/ctv/pg.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar"
-    },
-    {
       "key": "csp_AList",
       "name": " 📜AList",
       "type": 3,
@@ -1417,19 +1406,6 @@
       "filterable": 1,
       "ext": {
         "host": "http://app.hktvyb.cc",
-        "ver": "2"
-      }
-    },
-    {
-      "key": "py_叶子_APP",
-      "name": " 🧿叶子(FOX)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/appfox.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/yzysapp.json",
         "ver": "2"
       }
     },
@@ -1597,21 +1573,6 @@
       }
     },
     {
-      "key": "py_坚果_APP",
-      "name": " 🧿坚果(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://qiliniao-1331306839.cos.ap-chengdu.myqcloud.com/jg.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "2015692015692015",
-        "dataiv": "2015692015692015"
-      }
-    },
-    {
       "key": "py_王子_APP",
       "name": " 🧿王子(GET)",
       "type": 3,
@@ -1627,21 +1588,6 @@
       }
     },
     {
-      "key": "py_秒看_APP",
-      "name": " 🧿秒看(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://mk1080.top/get.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "c60d88b2eep53za8",
-        "dataiv": "c60d88b2eep53za8"
-      }
-    },
-    {
       "key": "py_茉莉_APP",
       "name": " 🧿茉莉(GET)",
       "type": 3,
@@ -1654,81 +1600,6 @@
         "api": "/api.php/getappapi",
         "datakey": "88689667dce61725",
         "dataiv": "88689667dce61725"
-      }
-    },
-    {
-      "key": "py_灵虎_APP",
-      "name": " 🧿灵虎(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://bind.315999.xyz/89.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "#getapp@TMD@2025",
-        "dataiv": "#getapp@TMD@2025"
-      }
-    },
-    {
-      "key": "py_驿站_APP",
-      "name": " 🧿驿站(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "dyyztvapiappyyds",
-        "dataiv": "dyyztvapiappyyds"
-      }
-    },
-    {
-      "key": "py_方源_APP",
-      "name": " 🧿方源(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://fyys9.fytd.top/1.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "0ef6fc92a64b4e74",
-        "dataiv": "0ef6fc92a64b4e74"
-      }
-    },
-    {
-      "key": "py_七月_APP",
-      "name": " 🧿七月(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://99.jl8.top/1.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "xnybssspqtwotuwj",
-        "dataiv": "xnybssspqtwotuwj"
-      }
-    },
-    {
-      "key": "py_芬奇_APP",
-      "name": " 🧿芬奇(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://wsapi.dafenqi.mom/yuming.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "bH5mI8iK0tK7aQ5x",
-        "dataiv": "bH5mI8iK0tK7aQ5x"
       }
     },
     {
