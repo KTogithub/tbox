@@ -107,26 +107,7 @@
     }
   ],
   "sites": [
-    {
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/notice.jar",
-      "key": "csp_Notice",
-      "name": "📢【Lem声明】公告",
-      "type": 3,
-      "api": "csp_Notice",
-      "ext": "雷蒙影视独家资源，私享即可，请勿传播！"
-    },
-    {
-      "key": "公告1",
-      "name": "📢【Lem声明】勿传播本线路",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/XB/ANNOUNCEMENT.json"
-      }
-    },
+
     {
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/market.jar",
       "key": "csp_Market",
