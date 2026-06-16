@@ -124,7 +124,7 @@
       "changeable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/lf_live.txt"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/KTogithub/tbox/refs/heads/main/lf_live.txt"
     },
     {
       "key": "原创",
