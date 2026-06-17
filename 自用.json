@@ -95,7 +95,7 @@
     },
    {
       "key": "免扫4K",
-      "name": "♻┃高清┃秒播",
+      "name": "高清┃秒播",
       "type": 3,
       "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0416/20/1fe667cd217a0c314b8ca59310dbf45d.jpg;md5;a4f403a000bc5e4ebdd9da27fcb05852",
       "api": "csp_AppV6",
@@ -114,7 +114,7 @@
     },
     {
       "key": "lf_js_lf_live",
-      "name": "电视 | 直播[js]",
+      "name": "电视┃直播[js]",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_live_min.js",
       "style": {
@@ -126,7 +126,7 @@
       "filterable": 1,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/KTogithub/tbox/refs/heads/main/lf_live.txt"
     },
-        {
+    {
       "key": "电影港",
       "name": "电影港┃磁力",
       "type": 3,
