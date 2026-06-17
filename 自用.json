@@ -195,6 +195,29 @@
       }
     },
     {
+            "key": "盼她",
+            "name": "盼她｜免扫",
+            "type": 3,
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/chitue/dongliTV/main/jar/dongli-spider.jar",
+            "api": "csp_PanTa",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+    },
+    {
+            "key": "guazi",
+            "name": "瓜子 | 影视",
+            "type": 3,
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/chitue/dongliTV/main/jar/dongli-spider.jar",
+            "api": "csp_Guazi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {}
+    },
+    {
       "key": "光影",
       "name": "🌞光影┃不卡",
       "type": 3,
