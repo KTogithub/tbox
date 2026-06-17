@@ -126,6 +126,15 @@
       "filterable": 1,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/KTogithub/tbox/refs/heads/main/lf_live.txt"
     },
+        {
+      "key": "电影港",
+      "name": "电影港┃磁力",
+      "type": 3,
+      "api": "csp_DyGang",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "光影",
       "name": "🌞光影┃不卡",
