@@ -106,6 +106,7 @@
       "key": "360影视",
       "name": "360影视",
       "type": 3,
+      "jar": "https://tvbox.catvod.com/catvod.jar;md5;392df5f6a1c925c9f765c7e4b6f3eda4",
       "api": "csp_SP360",
       "searchable": 1,
       "quickSearch": 1,
