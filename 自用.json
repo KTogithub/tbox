@@ -637,6 +637,33 @@
       "changeable": 0
     }
   ],
+    "parses": [
+    {
+      "name": "VIP1",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "VIP2",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jx/jx.php?url="
+    },
+    {
+      "name": "VIP3",
+      "type": 0,
+      "url": "https://yparse.ik9.cc/index.php?url="
+    },
+    {
+      "name": "VIP4",
+      "type": 0,
+      "url": "https://www.8090g.cn/jiexi/?url="
+    },
+    {
+      "name": "VIP5",
+      "type": 0,
+      "url": "https://jx.2s0.cn/player/?url="
+    }
+  ],
   "rules": [
     {
       "name": "cdn.ryplay",
