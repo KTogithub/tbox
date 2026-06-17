@@ -2,6 +2,7 @@
     "urls": [
 //{"name": "单仓","url": "https://katelyatv-bes.pages.dev/api/tvbox?format=json"},
 {"name": "饭太硬","url": "https://gh-proxy.com/https://raw.githubusercontent.com/KTogithub/tbox/refs/heads/main/饭太硬.txt"},
+{"name": "zy","url": "https://gh-proxy.com/https://raw.githubusercontent.com/KTogithub/tbox/refs/heads/main/自用.json"},
 {"name": "肥猫","url": "https://gh-proxy.com/https://raw.githubusercontent.com/KTogithub/tbox/refs/heads/main/肥猫.txt"},
 {"name": "放牛","url": "https://gh-proxy.com/https://raw.githubusercontent.com/KTogithub/tbox/refs/heads/main/王二小放牛娃.txt"},
 {"name": "爽翻天","url": "https://gh-proxy.com/https://raw.githubusercontent.com/KTogithub/tbox/refs/heads/main/爽翻天.txt"},
