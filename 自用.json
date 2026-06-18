@@ -414,6 +414,14 @@
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
+      "key": "养生堂",
+      "name": "养生堂",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://ncstatic.clewm.net/rsrc/2026/0418/17/1d9136626610437ab0cac0dbe262d1ed.png;md5;4D860D06EC233DBCB891B76055F099D5",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/KTogithub/tbox/refs/heads/main/养生堂.json"
+    },
+    {
       "key": "光影",
       "name": "🌞光影┃不卡",
       "type": 3,
