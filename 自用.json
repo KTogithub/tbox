@@ -348,12 +348,30 @@
     },
     {
             "key": "tingchina",
-            "name": "📚｜海盗｜听书",
+            "name": "海盗｜听书",
             "type": 3,
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/chitue/dongliTV/main/jar/dongli-spider.jar",
             "api": "csp_TingChina",
             "changeable": 0,
             "filterable": 1
+    },
+    {
+            "key":"天天",
+            "name":"天天┃不卡",
+            "type":3,
+            "api":"csp_TTian",
+            "playerType":2,
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+            "ext":"7lj763gg0939791h1l3888jig44gi291li"
+    },
+    {
+      "key": "柠檬",
+      "name": "柠檬",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
       "key": "光影",
