@@ -327,8 +327,19 @@
             "ext": ""
      },
      {
+			"key": "央视PY",
+			"name": "央视┃栏目",
+			"type": 3,
+			"api": "https://yydsys.top/duo/py/央视.py",
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"playerType": 2
+		 },
+     {
             "key": "CNTV",
-            "name": "央视｜综合",
+            "name": "央视┃综合",
             "type": 3,
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/chitue/dongliTV/main/jar/dongli-spider.jar",
             "api": "csp_CntvSpider",
