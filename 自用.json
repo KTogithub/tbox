@@ -1805,24 +1805,7 @@
     {
       "name": "VIP3",
       "type": 0,
-      "url
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		": "https://yparse.ik9.cc/index.php?url="
+      "url": "https://yparse.ik9.cc/index.php?url="
     },
     {
       "name": "VIP4",
@@ -1874,7 +1857,7 @@
         ]
       }
     },
-        {
+    {
             "name": "爱心",
             "type": 4,
             "url": "http://119.91.123.253:2345/Api/yun.php?url=",
@@ -1883,8 +1866,8 @@
                     "user-agent": "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
                 }
             }
-        },
-        {
+    },
+    {
             "name": "淘片",
             "type": 0,
             "url": "https://jx.yparse.com/index.php?url=",
@@ -1893,8 +1876,8 @@
                     "user-agent": "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
                 }
             }
-        },
-        {
+    },
+    {
             "name": "虾米",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
@@ -1903,8 +1886,8 @@
                     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
                 }
             }
-        },
-        {
+    },
+    {
             "name": "1号接口",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
@@ -1913,7 +1896,7 @@
                     "user-agent": "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
                 }
             }
-        },
+    },
         {
             "name": "2号接口",
             "type": 0,
