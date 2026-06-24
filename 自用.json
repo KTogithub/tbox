@@ -1478,6 +1478,176 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "csp_XYQHiker_VSYY",
+      "name": "🎦┃VS┃影院",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/XYQH.jar",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/xyq/VS影院.json"
+    },
+    {
+      "key": "cc_黑狐",
+      "name": "🦊┃黑狐┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/c.jar",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/c/黑狐.json"
+    },
+    {
+      "key": "csp_午舞",
+      "name": "🅱️┃午舞┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/五五影视.json"
+    },
+    {
+      "key": "量子资源",
+      "name": "🥑┃量子┃备用",
+      "type": 1,
+      "api": "https://lzizy1.com/api.php/provide/vod/",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ]
+    },
+    {
+      "key": "js_6V",
+      "name": "✡️六维磁力┃Js",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/6V.js"
+    },
+    {
+      "key": "XYQH_电影港",
+      "name": "🛳┃港口┃磁力",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_XYQHiker",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/XYQH.jar",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/xyq/港口.json"
+    },
+
+    {
+      "key": "js_a8音乐",
+      "name": "🎸┃奥迪┃音乐",
+      "playerType": 1,
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/a8音乐.js"
+    },
+    {
+      "key": "cc_评书",
+      "name": "📻┃评书┃合集",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/c.jar",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/c/评书.json"
+    },
+    {
+      "key": "cc_相声",
+      "name": "📻┃相声┃合集",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/c.jar",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/c/相声.json"
+    },
+
+    {
+      "key": "dr_iqiyi",
+      "name": "🥝┃爱奇异(官)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/iqiyi.js"
+    },
+    {
+      "key": "dr_youku",
+      "name": "🥔┃优酷(官)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/youku.js"
+    },
+    {
+      "key": "dr_qq",
+      "name": "🐧┃腾讯(官)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/qq.js"
+    },
+    {
+      "key": "dr_mgtv",
+      "name": "🥭┃芒果(官)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/mgtv.js"
+    },
+    {
+      "key": "dr_搜狗",
+      "name": "🚛┃搜狗(官)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/caigou.js"
+    },
+
+    {
+      "key": "dr_奇珍异兽",
+      "name": "🦍┃奇珍┃异兽",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/奇珍异兽.js"
+    },
+    {
+      "key": "dr_腾云驾雾",
+      "name": "☁️┃腾云┃驾雾",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/腾云驾雾.js"
+    },
+    {
+      "key": "dr_百忙无果",
+      "name": "🍋┃百忙┃无果",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/百忙无果.js"
+    },
 
     {
       "key": "光影",
