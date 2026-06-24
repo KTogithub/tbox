@@ -1043,7 +1043,6 @@
         "奇幻片",
         "记录片",
         "动画片",
-        "伦理片",
         "内地剧",
         "香港剧",
         "台湾剧",
@@ -1323,7 +1322,163 @@
       "quickSearch": 1,
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
     },
-	  
+    {
+      "key": "drjs_荐片",
+      "name": " 🏆荐片(DRPY)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/荐片.js"
+    },
+    {
+      "key": "csp_PTT",
+      "name": " 🎈PTT(SP)",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0610.jar;md5;005E813846053008410523C74B9EB4AA",
+      "api": "csp_PTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_AppV6_师兄_QJ",
+      "name": " 🐵师兄(SP)",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0610.jar;md5;005E813846053008410523C74B9EB4AA",
+      "api": "csp_AppV6",
+      "playerType": 2,
+      "ext": "7lj763gg0939790h44298182lk5j9k99k2g4ih53jl9i376l514k16hilj0443400h9k4jgh8312j18i3k1ih986k4hk42g7kh20364hl7h7j9h1278238lj7hkl1700h8j3i3h0k2387036ik1g7i1j96l65g7228h8l52765gg8kkk938k3hh261101j2j3h8565ghlj18l81kij653i6l0k991690j30j619k02jh780glk3h0li5j563624i394j30520k8l68j2j2h44g66l6310klk2745h5438i7063h10k65g2494464g31216k3ij9816965l9g0633k21595i865753g6973119hl70l594gi1i615k5319962645403142hkl6j664g4hi2i3g28hg91i6772gik1118kj34h7k3849i0ghililgig8j232lk06jkj486726291ih7792i4ki5060656231k8lk8954g7lj85748614g69liki40i5g52hh1976i6gigi9649641i5334425hli000hh41j056kji6j089lj7i8308i34kil4g9519ggj7801h4h006i998l1293k216846725kjk955985ikjilj3kj20h179llk1k184l51hi735k57jlj71318g526h8h4ii084g4263ig64ljh7626258gg42i2j65gii6i4077k2ihg28lhj7g7i80k3g000jh088gi3859626h57966ll6ggi2hiji66ij00h1622j6567497i3l78lk76642l72k0ihjgjh093109l733l2h29g61629j75kj559gk4g661j75859k661i61i7869851j9hhhh2g29hig0644gi032153k253kh3462i12277jii2345gi9395609khh81444843kgh4k9j949219j47i234k652l97120j362jg32lhj84g7k1kg06420hlg1l9j0kj3g1319kk8j04iigl76525l2j4887ih3kj9k756hjilh3326l300719kil6902j22h263jk72253069gi40976475h58371l973hhj0ihj5k7k7gk72k2lggh3k5jhj08593h3694j0l448259664jhi20jlk9j78giji654h526ihl3471i494l2l1i26kji351172i4590jk64i6jg4278gk0k46iik396j4ii619gi328971kk73739ki730gg84g0j5g6g2g135h1ki26hg69l459182248888568g0687l6i195426hi9k0100khk57g038i13gi2k28jg9972i42291563407129gj7308i85h1672ji5l861lj645917i256j256532994i87792g9ij17g208i63ggg20kk19g2i0j6h56154292li61iij8119hg59580g775hik1li7jj1k895j756gh6g44528297hi63i0142h87534i5g5349100ig42hl583k5j308i7l813l5196j75glkl241g144583l07237389h560jig2kk6g93kj513jlghi2198501l6g62hgl59042j3j80ik05093k02196k0h7g683k744i663g68lj35i4g3h47k4262hg49401911l4lhj5953922j7hggl3ijhjk8jk8560043803g5j61g14j9glhh292jh4l7gklhihj9473033g3l7h7870lhkh7l31597h543k1213g9l274810i821k391i8k25jk78l5g0j9l4k15240hlgi7h905j3l7l91k6j05g8g98l613g0j1440h8hl52786h4h9l8igg9k3j2h7ii60337l4i5j6kk318410j0g9k5li11hih372273k6l5hk9hh97348l41lk4487l1647g6i235g994k3710jl7l1l0g19l5ii21lk8h023j2ki6h31j6kg052lh03khj9790jiijiij881551l883423k2h673j6gi0i803k2531g5ig64ggj1996559169l89h8lgkg5979j5368h310i6621l10ikhj67hhl1j79g2kg4g3hi186434hj51494k202li774ik7hll3295k86j6gik0l681kk0195848j9hil34gh9gl7k6k973l0h5gj986kjhh70lg9743k8j9684l596l0g579j17iilh4h98glj55k20190i379406g2i56lij0h125j5877g581i30iilijk2k7hhkk775881hi795371i54i3266j0390j910803kl21hi1k629g252h292j74hk817l13lh852lg65l652kg469jgh0j667477443j75i4g9hkii2j1jj7ji770k5k8h24kj9lh03g17kigi0476640831jljkl9010gi4i35l7925j0l2lh9g0j3hjlkig0l169hj104gj9g76iji3i8ig038lh06j7792l853l551k9jjhh03h65j71gl2j369j3jili973505ki55078959h90h60605161jih00gih374i0i9662233h0g94gjh40342667512i018i424397ikh2lk533l42lh5l5k4h2ij919j7ljg3k1ik784241642g14i4h2l6g11103hi2gi397l3456i276818j02j9j202g202jgh0j5g15l9405l0h26l1j8h875lk23617359li434295j4kl92l73496li7i151l924j7il4kj484jlg93311jlkj159941i0h25i96i907i1kjh99ki5h22520j51lk0i6i84k749jh0j67ki22lhj5k93kjki8j30k54j0262h3j6849i6279264kj6k79ii74k25944004315168792g18k7hli907l7lig4765593j371g470822885855lj6jh2582331j22hg7kl6j5l1g11897i868k387536i823l03ig5ij279717l0h0hkljl29979k1597h40l666838j34kgli448j01illi598j74g1503ijhh3jj97i8ggij346034840hk1gl7i281ig979354751k186032j4j2ih1983h0j3hi3j3i2hg72i6klg06ji362ii4k81j6k7i014382l756963225l96l5695798g6igi8659g4jl116942ii1l594gil3k5j4j7ji7105"
+    },
+    {
+      "key": "csp_Dygang_QJ",
+      "name": " 🚢电影港(SP)",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0610.jar;md5;005E813846053008410523C74B9EB4AA",
+      "api": "csp_Dygang",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_CandyMuj_dyls",
+      "name": " 🚅极速影视(SP*)",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0610.jar;md5;005E813846053008410523C74B9EB4AA",
+      "api": "csp_CandyMuj_dyls",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/dyls.json"
+    },
+    {
+      "key": "csp_CandyMuj_taoju",
+      "name": " 🌊淘剧影院(SP)",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0610.jar;md5;005E813846053008410523C74B9EB4AA",
+      "api": "csp_CandyMuj_taoju",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_咕咕_APP",
+      "name": " 🧿咕咕(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://www.gugu3.com",
+        "api": "/api.php/getappapi",
+        "datakey": "nKfZ8KX6JTNWRzTD",
+        "dataiv": "nKfZ8KX6JTNWRzTD"
+      }
+    },
+    {
+      "key": "py_热播",
+      "name": " 🧿热播(PY)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/热播APP.py"
+    },
+    {
+      "key": "py_河马",
+      "name": " 🧿河马(PY)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/河马短剧.py"
+    },
+    {
+      "key": "vod_最大",
+      "name": " 🚀最大采集",
+      "type": 1,
+      "api": "http://zuidazy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "vod_淘片",
+      "name": " 🚀淘片采集",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "vod_新浪",
+      "name": " 🚀新浪采集",
+      "type": 1,
+      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playUrl": "",
+      "categories": [
+        "电影",
+        "动漫",
+        "动漫电影",
+        "战争片",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "日剧",
+        "电视剧",
+        "大陆剧",
+        "港澳剧",
+        "台湾剧",
+        "韩剧",
+        "欧美剧"
+      ]
+    },
+    {
+      "key": "vod_红牛",
+      "name": " 🚀红牛采集",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "vod_速播",
+      "name": " 🚀速播采集",
+      "type": 1,
+      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "vod_茅台",
+      "name": " 🚀茅台采集",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
     {
       "key": "光影",
       "name": "🌞光影┃不卡",
@@ -2253,6 +2408,14 @@
       "type": 0,
       "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2
+    },
+    {
+      "name": "WEB直播",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/web.txt",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "范明明（需开启V6网络）",
