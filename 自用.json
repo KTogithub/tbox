@@ -79,6 +79,84 @@
         "type": "list"
       }
     },
+    {
+      "key": "华数",
+      "name": "🦐华数",
+      "type": 3,
+      "api": "https://pan.29o.cn/down.php/10b39f7bc2521aea8a4a091a0d86e2da.py",
+      "changeable": 1
+    },
+    {
+      "key": "爱奇幕",
+      "name": "🦐奇异",
+      "type": 3,
+      "api": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://fastlink.cokey.xyz/f/MAmbcW/%E5%A5%87%E5%BC%82.js"
+    },
+
+    {
+      "key": "腾腾",
+      "name": "🐧腾腾┃JX",
+      "type": 3,
+      "api": "http://rihou.cc:88/js/drpy2.min.js",
+      "ext": "http://rihou.cc:88/js/腾腾.js"
+    },
+    {
+      "key": "1奇",
+      "name": "🐴奇奇┃JX",
+      "type": 3,
+      "api": "http://rihou.cc:88/js/drpy2.min.js",
+      "ext": "http://rihou.cc:88/js/奇奇.js"
+    },
+    {
+      "key": "果果",
+      "name": "🍋果果┃JX",
+      "type": 3,
+      "api": "http://rihou.cc:88/js/drpy2.min.js",
+      "ext": "http://rihou.cc:88/js/果果.js"
+    },
+    {
+      "key": "酷酷",
+      "name": "😎酷酷┃JX",
+      "type": 3,
+      "api": "http://rihou.cc:88/js/drpy2.min.js",
+      "ext": "http://rihou.cc:88/js/酷酷.js"
+    },
+    {
+      "key": "哔幕",
+      "name": "哔哩｜X",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
+      "ext": "http://nn.4688888.xyz/js/哔哩视频.js"
+    },
+    {
+      "key": "优酷幕",
+      "name": "优酷｜X",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
+      "ext": "http://nn.4688888.xyz/js/优酷弹幕.js"
+    },
+    {
+      "key": "爱奇艺幕",
+      "name": "爱奇艺｜X",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
+      "ext": "http://nn.4688888.xyz/js/爱奇艺.js"
+    },
+    {
+      "key": "腾讯幕",
+      "name": "企鹅｜X",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
+      "ext": "http://nn.4688888.xyz/js/腾讯视频.js"
+    },
+    {
+      "key": "芒果幕",
+      "name": "芒果｜X",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
+      "ext": "http://nn.4688888.xyz/js/芒果视频.js"
+    },
    {
       "key": "免扫4K",
       "name": "高清┃秒播",
@@ -944,23 +1022,44 @@
             ]			
         },	
 {"key":"极速","name":"️✈️极速采集","type":1,"api":"https://jszyapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1,"categories":["内地剧","欧美剧","日剧","韩剧","台湾剧","香港剧","马泰剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","记录片","动画片","日本动漫","欧美动漫","中国动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"]},
-            {
-            "key": "火狐",
-            "name": "📛火焰狐妖采集",
-            "type": 1,
-            "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "categories": [
-                "内地剧",
-                "动画片",
-                "中国动漫",
-                "动作片",
-                "科幻片",
-                "记录片"
-            ]
-        },
+    {
+      "key": "vod_豪华",
+      "name": " 🚀虎虎采集",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "悬疑片",
+        "犯罪片",
+        "奇幻片",
+        "记录片",
+        "动画片",
+        "伦理片",
+        "内地剧",
+        "香港剧",
+        "台湾剧",
+        "日剧",
+        "韩剧",
+        "欧美剧",
+        "马泰剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫"
+      ]
+    },
         {
       "key": "光速资源",
       "name": "💯光速采集",
@@ -1001,84 +1100,7 @@
 			"filterable": 0,
 			"timeout": 60
 		},	
-    {
-      "key": "华数",
-      "name": "🦐华数",
-      "type": 3,
-      "api": "https://pan.29o.cn/down.php/10b39f7bc2521aea8a4a091a0d86e2da.py",
-      "changeable": 1
-    },
-    {
-      "key": "爱奇幕",
-      "name": "🦐奇异",
-      "type": 3,
-      "api": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "https://fastlink.cokey.xyz/f/MAmbcW/%E5%A5%87%E5%BC%82.js"
-    },
 
-    {
-      "key": "腾腾",
-      "name": "🐧腾腾┃JX",
-      "type": 3,
-      "api": "http://rihou.cc:88/js/drpy2.min.js",
-      "ext": "http://rihou.cc:88/js/腾腾.js"
-    },
-    {
-      "key": "1奇",
-      "name": "🐴奇奇┃JX",
-      "type": 3,
-      "api": "http://rihou.cc:88/js/drpy2.min.js",
-      "ext": "http://rihou.cc:88/js/奇奇.js"
-    },
-    {
-      "key": "果果",
-      "name": "🍋果果┃JX",
-      "type": 3,
-      "api": "http://rihou.cc:88/js/drpy2.min.js",
-      "ext": "http://rihou.cc:88/js/果果.js"
-    },
-    {
-      "key": "酷酷",
-      "name": "😎酷酷┃JX",
-      "type": 3,
-      "api": "http://rihou.cc:88/js/drpy2.min.js",
-      "ext": "http://rihou.cc:88/js/酷酷.js"
-    },
-    {
-      "key": "哔幕",
-      "name": "哔哩｜X",
-      "type": 3,
-      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
-      "ext": "http://nn.4688888.xyz/js/哔哩视频.js"
-    },
-    {
-      "key": "优酷幕",
-      "name": "优酷｜X",
-      "type": 3,
-      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
-      "ext": "http://nn.4688888.xyz/js/优酷弹幕.js"
-    },
-    {
-      "key": "爱奇艺幕",
-      "name": "爱奇艺｜X",
-      "type": 3,
-      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
-      "ext": "http://nn.4688888.xyz/js/爱奇艺.js"
-    },
-    {
-      "key": "腾讯幕",
-      "name": "企鹅｜X",
-      "type": 3,
-      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
-      "ext": "http://nn.4688888.xyz/js/腾讯视频.js"
-    },
-    {
-      "key": "芒果幕",
-      "name": "芒果｜X",
-      "type": 3,
-      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
-      "ext": "http://nn.4688888.xyz/js/芒果视频.js"
-    },
 
 
     {
