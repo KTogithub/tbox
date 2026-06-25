@@ -1980,20 +1980,6 @@
 {"key":"pianba","name":"片吧影视","type":3,"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/spider.jar","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类": "电影$1#剧集$2#动漫$3#综艺$4"}},
 
-    {
-      "key": "鹊桥",
-      "name": "🧿鹊桥｜XX",
-      "type": 3,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0526/13/3c2fe19f3ae9dcf760356cb9e958ef48.jpg;md5;7c546ee0441d827c11541a81c5b98a7b",
-      "api": "csp_XBPQ",
-      "ext": {
-        "副标题": "欧歌专属",
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类url": "http://114bate.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#电影解说$38"
-      }
-    },
 
 
     {
