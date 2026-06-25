@@ -1937,6 +1937,28 @@
         "type": "list"
       }
     },
+    {
+      "key": "天涯资源",
+      "name": "天涯资源采集",
+      "type": 1,
+      "api": "https://tyyszyapi.com/api.php/provide/vod/at/?ac=list",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+
+
+    {
+      "key": "1905",
+      "name": "七星🌟┃Web1905",
+      "type": 3,
+      "jar": "https://7337.kstore.space/qxys/qxyc.jar",
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+
 	  
     {
       "key": "光影",
