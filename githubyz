@@ -55,98 +55,6 @@
       }
     },
     {
-      "key": "华数",
-      "name": "🦐华数",
-      "type": 3,
-      "api": "https://pan.29o.cn/down.php/10b39f7bc2521aea8a4a091a0d86e2da.py",
-      "changeable": 1
-    },
-    {
-      "key": "dr_腾云驾雾",
-      "name": "☁️腾讯┃JX",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/腾云驾雾.js"
-    },
-    {
-      "key": "1奇",
-      "name": "🐴爱奇艺┃JX",
-      "type": 3,
-      "api": "http://rihou.cc:88/js/drpy2.min.js",
-      "ext": "http://rihou.cc:88/js/奇奇.js"
-    },
-    {
-      "key": "果果",
-      "name": "🍋芒果┃JX",
-      "type": 3,
-      "api": "http://rihou.cc:88/js/drpy2.min.js",
-      "ext": "http://rihou.cc:88/js/果果.js"
-    },
-    {
-      "key": "酷酷",
-      "name": "😎酷酷┃JX",
-      "type": 3,
-      "api": "http://rihou.cc:88/js/drpy2.min.js",
-      "ext": "http://rihou.cc:88/js/酷酷.js"
-    },
-    {
-      "key": "哔哩影视",
-      "name": "❤️哔哩┃JX",
-      "type": 3,
-      "api": "https://gitee.com/liu_wuyou/box/raw/master/JS/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "order_num": 19,
-      "ext": "https://chuxinya.top/f/XDVOUO/%E5%93%94%E5%93%A9%E5%BD%B1%E8%A7%86%5B%E5%AE%98%5D.js",
-      "jar": "https://gitee.com/liu_wuyou/box/raw/master/jar/xsbd.jar"
-    },
-    {
-      "key": "哔幕",
-      "name": "😎哔哩｜X",
-      "type": 3,
-      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
-      "ext": "http://nn.4688888.xyz/js/哔哩视频.js"
-    },
-    {
-      "key": "优酷幕",
-      "name": "😎优酷｜X",
-      "type": 3,
-      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
-      "ext": "http://nn.4688888.xyz/js/优酷弹幕.js"
-    },
-    {
-      "key": "爱奇艺幕",
-      "name": "🐴爱奇艺｜X",
-      "type": 3,
-      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
-      "ext": "http://nn.4688888.xyz/js/爱奇艺.js"
-    },
-    {
-      "key": "腾讯幕",
-      "name": "☁️腾讯｜X",
-      "type": 3,
-      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
-      "ext": "http://nn.4688888.xyz/js/腾讯视频.js"
-    },
-    {
-      "key": "芒果幕",
-      "name": "🍋芒果｜X",
-      "type": 3,
-      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
-      "ext": "http://nn.4688888.xyz/js/芒果视频.js"
-    },
-    {
-      "key": "360影视",
-      "name": "🎈360影视",
-      "type": 3,
-      "jar": "http://hello.xn--z7x900a.net/PandaQ260515.png;md5;b81a5747f91e7169bdc7e3f68bd995e0",
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "听心99",
       "name": "👑听心┃多线",
       "type": 3,
@@ -386,6 +294,98 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "华数",
+      "name": "🦐华数┃不卡",
+      "type": 3,
+      "api": "https://pan.29o.cn/down.php/10b39f7bc2521aea8a4a091a0d86e2da.py",
+      "changeable": 1
+    },
+    {
+      "key": "360影视",
+      "name": "🎈360影视",
+      "type": 3,
+      "jar": "http://hello.xn--z7x900a.net/PandaQ260515.png;md5;b81a5747f91e7169bdc7e3f68bd995e0",
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dr_腾云驾雾",
+      "name": "☁️腾讯┃JX",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/腾云驾雾.js"
+    },
+    {
+      "key": "1奇",
+      "name": "🐴爱奇艺┃JX",
+      "type": 3,
+      "api": "http://rihou.cc:88/js/drpy2.min.js",
+      "ext": "http://rihou.cc:88/js/奇奇.js"
+    },
+    {
+      "key": "果果",
+      "name": "🍋芒果┃JX",
+      "type": 3,
+      "api": "http://rihou.cc:88/js/drpy2.min.js",
+      "ext": "http://rihou.cc:88/js/果果.js"
+    },
+    {
+      "key": "酷酷",
+      "name": "😎酷酷┃JX",
+      "type": 3,
+      "api": "http://rihou.cc:88/js/drpy2.min.js",
+      "ext": "http://rihou.cc:88/js/酷酷.js"
+    },
+    {
+      "key": "哔哩影视",
+      "name": "❤️哔哩┃JX",
+      "type": 3,
+      "api": "https://gitee.com/liu_wuyou/box/raw/master/JS/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 19,
+      "ext": "https://chuxinya.top/f/XDVOUO/%E5%93%94%E5%93%A9%E5%BD%B1%E8%A7%86%5B%E5%AE%98%5D.js",
+      "jar": "https://gitee.com/liu_wuyou/box/raw/master/jar/xsbd.jar"
+    },
+    {
+      "key": "哔幕",
+      "name": "😎哔哩｜X",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
+      "ext": "http://nn.4688888.xyz/js/哔哩视频.js"
+    },
+    {
+      "key": "优酷幕",
+      "name": "😎优酷｜X",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
+      "ext": "http://nn.4688888.xyz/js/优酷弹幕.js"
+    },
+    {
+      "key": "爱奇艺幕",
+      "name": "🐴爱奇艺｜X",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
+      "ext": "http://nn.4688888.xyz/js/爱奇艺.js"
+    },
+    {
+      "key": "腾讯幕",
+      "name": "☁️腾讯｜X",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
+      "ext": "http://nn.4688888.xyz/js/腾讯视频.js"
+    },
+    {
+      "key": "芒果幕",
+      "name": "🍋芒果｜X",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
+      "ext": "http://nn.4688888.xyz/js/芒果视频.js"
     },
     {
       "key": "电影港",
