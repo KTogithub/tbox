@@ -146,6 +146,15 @@
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       }
     },
+	{
+			"key": "非凡资源",
+			"name": "🥗非凡┃采集",
+			"type": 1,
+			"api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+			"searchable": 1,
+			"changeable": 1,
+			"categories": ["动作片", "喜剧片", "科幻片", "恐怖片", "爱情片", "剧情片", "战争片", "记录片", "国产剧", "欧美剧", "香港剧", "韩国剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"]
+	},
     {
       "key": "cj_暴风资源",
       "name": "🧞暴风┃采集",
@@ -155,9 +164,21 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "categories": [
+      "categories": ["动作片", "喜剧片", "科幻片", "恐怖片", "爱情片", "剧情片", "战争片", "记录片", "国产剧", "欧美剧", "香港剧", "韩国剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"
       ]
     },
+{ 
+      "key": "五大采集平台采", 
+      "name": "❤️‍官采┃采集", 
+      "type": 3, 
+      "jar": "https://d.kstore.dev/download/4127/Jar/分享者0.zip;md5;f2f74d72c025a19ba4ade4d148d6d419",
+      "api": "csp_AppYsV2", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "playerType":2, 
+      "ext": "http://39.105.18.5:5565/api.php/app/" 
+},
     {
       "key": "潮流",
       "name": "🎈热播┃APP",
