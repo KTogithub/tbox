@@ -867,24 +867,21 @@
       ]
     },
     {
-      "name": "♻️非凡采集",
+      "name": "ffcj",
       "hosts": [
-        "vod.feifei-video",
-        "vod.feifei-online",
-        "vod.feifei-kan",
-        "vip.ffzy-plays",
-        "svipsvip.ffzy",
-        "vip.ffzy-online4",
-        "vip.ffzy-online3",
+        "vod.feifei-video.com",
+        "vod.feifei-online.com",
+        "vod.feifei-kan.com",
+        "vip.ffzy-plays.com",
+        "svipsvip.ffzy.com",
+        "vip.ffzy-online4.com",
+        "vip.ffzy-online3.com",
         "ffzy",
         "vip.ffzy",
         "hd.ffzy"
       ],
       "regex": [
-        "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:4.866667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3.333333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.366667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:1.733333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+        #EXT-X-DISCONTINUITY\s*#EXTINF:4\.866667,.+?#EXT-X-DISCONTINUITY
       ]
     },
     {
