@@ -147,6 +147,18 @@
       }
     },
     {
+      "key": "cj_暴风资源",
+      "name": "🧞暴风┃采集",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "categories": [
+      ]
+    },
+    {
       "key": "潮流",
       "name": "🎈热播┃APP",
       "type": 3,
