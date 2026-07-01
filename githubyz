@@ -888,15 +888,12 @@
       ]
     },
     {
-      "name": "♻️量非",
+      "name": "♻️量子",
       "hosts": [
         "lz",
         "vip.lz",
         "v.cdnlz",
-        "hd.lz",
-        "ffzy",
-        "vip.ffzy",
-        "hd.ffzy"
+        "hd.lz"
       ],
       "regex": [
         "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
