@@ -881,7 +881,10 @@
         "hd.ffzy"
       ],
       "regex": [
-        "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:4.866667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+        "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:4.866667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3.333333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.366667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:1.733333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
       ]
     },
     {
