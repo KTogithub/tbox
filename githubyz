@@ -834,6 +834,22 @@
       ]
     },
     {
+      "name": "♻️非凡采集",
+      "hosts": [
+        "vod.feifei-video",
+        "vod.feifei-online",
+        "vod.feifei-kan",
+        "vip.ffzy-plays",
+        "svipsvip.ffzy",
+        "ffzy",
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3.333333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
       "name": "♻️量非",
       "hosts": [
         "lz",
