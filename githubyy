@@ -61,7 +61,7 @@
      {
             "key": "黄V资源",
             "name": "💝┃黄V┃采集",
-            "type": 1,
+            "type": 3,
             "api": "https://www.pgxdy.com/api/json.php",
             "searchable": 1,
             "quickSearch": 1,
@@ -70,7 +70,7 @@
      {
             "key": "香奶资源",
             "name": "💖┃香奶┃采集",
-            "type": 1,
+            "type": 3,
             "api": "https://www.gdlsp.com/api/json.php",
             "searchable": 1,
             "quickSearch": 1,
@@ -90,7 +90,7 @@
      {
             "key" : "美少女资源",
             "name" : "💖┃美少女┃采集",
-            "type" : 1,
+            "type" : 3,
             "api" : "https://www.msnii.com/api/json.php",
             "searchable": 1,
             "quickSearch": 1,
@@ -99,7 +99,7 @@
      {
             "key":"白嫖资源",
             "name":"💝┃白嫖┃采集",
-            "type":1,
+            "type":3,
             "api":"https://www.kxgav.com/api/json.php",
             "searchable":1,
             "quickSearch":1,
@@ -117,7 +117,7 @@
      {
             "key": "水机资源",
             "name": "💖┃水机┃采集",
-            "type": 1,
+            "type": 3,
             "api": "https://www.xrbsp.com/api/json.php",
             "searchable": 1,
             "quickSearch": 1,
