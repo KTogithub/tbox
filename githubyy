@@ -41,8 +41,8 @@
       }
     },
      {
-            "key": "黄色资源",
-            "name": "🥑┃黄色┃采集",
+            "key": "Yellow资源",
+            "name": "🥑┃Yellow┃采集",
             "type": 1,
             "api": "https://hsckzy888.com/api.php/provide/vod",
             "searchable": 1,
@@ -59,8 +59,8 @@
             "categories": []
      },
      {
-            "key": "黄AV资源",
-            "name": "💝┃黄AV┃采集",
+            "key": "黄V资源",
+            "name": "💝┃黄V┃采集",
             "type": 1,
             "api": "https://www.pgxdy.com/api/json.php",
             "searchable": 1,
@@ -78,8 +78,8 @@
                         ]
      },	  
      {
-            "key": "老色逼资源",
-            "name": "💖┃老色逼┃采集",
+            "key": "BB逼资源",
+            "name": "💖┃BB┃采集",
             "type": 1,
             "api": "https://apilsbzy1.com/api.php/provide/vod",
             "searchable": 1,
@@ -115,8 +115,8 @@
             "categories":[]
      },
      {
-            "key": "淫水机资源",
-            "name": "💖┃淫水机┃采集",
+            "key": "水机资源",
+            "name": "💖┃水机┃采集",
             "type": 1,
             "api": "https://www.xrbsp.com/api/json.php",
             "searchable": 1,
