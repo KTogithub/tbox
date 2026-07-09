@@ -6,6 +6,7 @@
       "key": "点我切源",
       "name": "🚀豆瓣推荐",
       "type": 3,
+	  "jar": "https://zl.wpscdn.cn/2026/07/07/space_img/62cbaa74-b67b-4097-b8d3-a2d169f48a0e.jpg;md5;cc4f45deda39564e41b80ba7b921718b",
       "api": "csp_DouDouGuard",
       "indexs": 1,
       "searchable": 0,
