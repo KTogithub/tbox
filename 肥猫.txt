@@ -1,7 +1,7 @@
 {
-  "spider": "https://img2.gelonghui.com/library/b81a5-c1c17953-7221-4d19-bad2-307960c010f0.png;md5;b81a5747f91e7169bdc7e3f68bd995e0",
+  "spider": "https://img2.gelonghui.com/library/e2693-9aa941a0-f96a-40c2-ac23-e6af358d19a7.png;md5;e2693c58ebc58abecc7282b721db79ca",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "logo": "http://feimao.pro/fm.gif",
+  "logo": "http://xn--z7x900a.net/fm.gif",
   "sites": [
     {
       "key": "豆瓣",
@@ -51,13 +51,11 @@
       "filterable": 1,
       "ext": {
         "site_urls": [
-          "http://xiaocge.fun",
+          "http://tvpanpan.site",
           "http://feimo.fun",
-          "http://www.labi88.sbs",
-          "http://fmao.site",
-          "http://fmao.shop",
           "http://xiaocgege.shop",
-          "http://www.xiaocgege.shop"
+          "http://www.xiaocgege.shop",
+          "https://www.xiaocge.fun"
         ],
         "threadinfo": {
           "chunksize": 512,
@@ -74,12 +72,11 @@
       "filterable": 1,
       "ext": {
         "site_urls": [
+          "https://www.zhizhen8.click",
           "https://pan.mihdr.top",
           "https://www.zhizhen1.top",
           "https://www.mihdr.top",
-          "https://www.miqk.cc",
-          "https://www.zhizhenpan.com",
-          "https://www.zhizhen8.click"
+          "https://www.miqk.cc"
         ],
         "url_key": "Netfixtv2",
         "threadinfo": {
@@ -142,7 +139,7 @@
       "name": "🫛┃蔬菜┃APP",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725"
+      "ext": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt|88689667dce61725"
     },
     {
       "key": "永永",
@@ -170,7 +167,7 @@
       "api": "csp_Jianpian",
       "type": 3,
       "playerType": "2",
-      "ext": "https://ev2089.zxbwv.com"
+      "ext": "https://api.ztcgi.com"
     },
     {
       "key": "csp_SaoHuo",
@@ -298,16 +295,20 @@
       }
     },
     {
-      "key": "drpy_js_310直播",
-      "name": "🏀┃体育┃直播",
+      "key": "瓜子",
+      "name": "🏀┃瓜子┃体育",
       "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "changeable": 0,
-      "gridview": 3,
+      "api": "csp_GuaziTY",
       "style": {
-        "type": "list"
+        "type": "rect",
+        "ratio": 1.333
       },
-      "ext": "https://img2.gelonghui.com/library/d6014-7a5d5b19-3fe5-456a-8335-925bc845606fnull"
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "timeout": 12,
+      "order_num": 0,
+      "changeable": 0
     },
     {
       "key": "米搜",
