@@ -151,8 +151,8 @@
       "key": "无水印采集",
       "name": "♦纯净┃采集",
       "type": 1,
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
       "categories": [
 		"纪录片",
@@ -200,7 +200,7 @@
 			"name": "🥗非凡┃采集",
 			"type": 1,
 			"api": "http://cj.ffzyapi.com/api.php/provide/vod/",
-			"searchable": 1,
+			"searchable": 0,
             "quickSearch": 1,
 			"changeable": 1,
 			"categories": ["动作片", "喜剧片", "科幻片", "恐怖片", "爱情片", "剧情片", "战争片", "记录片", "国产剧", "欧美剧", "香港剧", "韩国剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"]
@@ -210,7 +210,7 @@
       "name": "🧞暴风┃采集",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
