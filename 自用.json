@@ -276,15 +276,16 @@
             }
     },
     {
-            "key": "guazi",
-            "name": "🍉瓜子 | 影视",
-            "type": 3,
-            "api": "https://chigua.eu.org/py/瓜子影视.py",
-            "searchable": 1,
-            "changeable": 1,
-		    "quickSearch": 1,
-            "filterable": 1
-            "ext": {}
+      "key": "瓜子",
+      "name": "👀瓜子┃不卡",
+      "type": 3,
+	  "jar": "https://zl.wpscdn.cn/2026/07/24/space_img/3320c877-40ef-40a5-ba62-9b8a8a52b169.jpg;md5;cefd44f999782ba92041856620bd5097",
+      "api": "csp_AppgzGuard",
+      "timeout": 15,
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
         {
             "key": "XinHan",
