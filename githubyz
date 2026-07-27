@@ -148,17 +148,6 @@
       }
     },
     {
-            "key": "guazi",
-            "name": "🍉瓜子 | 影视",
-            "type": 3,
-            "api": "https://chigua.eu.org/py/瓜子影视.py",
-            "searchable": 1,
-            "changeable": 1,
-		    "quickSearch": 1,
-            "filterable": 1
-            "ext": {}
-    },
-    {
       "key": "无水印采集",
       "name": "♦纯净┃采集",
       "type": 1,
