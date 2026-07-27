@@ -279,10 +279,11 @@
             "key": "guazi",
             "name": "🍉瓜子 | 影视",
             "type": 3,
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/chitue/dongliTV/main/jar/dongli-spider.jar",
-            "api": "csp_Guazi",
+            "api": "https://chigua.eu.org/py/瓜子影视.py",
             "searchable": 1,
             "changeable": 1,
+		    "quickSearch": 1,
+            "filterable": 1
             "ext": {}
     },
         {
