@@ -1,11 +1,12 @@
 {
-  "spider": "https://zl.wpscdn.cn/2026/08/03/space_img/31c67f10-796e-4c4b-abe7-75fd4a527cc8.jpg;md5;9d90c83bc7504392dd02c2236f08713a",
+  "spider": "https://file.icve.com.cn/file_doc/573/593/8F59443D53D73EF5E34581B77E3C5A15.jpg;md5;8f59443d53d73ef5e34581b77e3c5a15",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "点我切源",
       "name": "豆瓣(8月3更新)",
       "type": 3,
+      "jar": "https://zl.wpscdn.cn/2026/08/03/space_img/31c67f10-796e-4c4b-abe7-75fd4a527cc8.jpg;md5;9d90c83bc7504392dd02c2236f08713a",
       "api": "csp_DouDouGuard",
       "indexs": 1,
       "searchable": 0,
