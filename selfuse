@@ -41,29 +41,6 @@
       }
     },
     {
-      "key": "YGP",
-      "name": "🚀叨观荐影┃预告片",
-      "type": 3,
-      "api": "csp_YGPGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "MTV1",
-      "name": "🎙️易听音乐┃带歌词",
-      "type": 3,
-      "api": "csp_MusicGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "playerType": 2,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "seed",
       "name": "💡聚剧┃四盘",
       "type": 3,
@@ -717,7 +694,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_WexerxiaoziyuanGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1
     },
     {
@@ -726,7 +703,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_WexnullnameGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1,
       "timeout": 120
     },
@@ -736,7 +713,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_WexduoduoziyuanGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1,
       "timeout": 120
     },
@@ -746,7 +723,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_WexmuouggGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1
     },
     {
@@ -755,7 +732,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_WexshuangzixingGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1
     },
     {
@@ -764,7 +741,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_WexhanxiaoquanGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1
     },
     {
@@ -773,7 +750,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_WexJianpianGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1
     },
     {
@@ -782,7 +759,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_WexkuihuatvGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1
     },
     {
@@ -791,7 +768,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_WexNmysGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1
     },
     {
@@ -800,7 +777,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_WexikanbotGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1
     },
     {
@@ -809,7 +786,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_WexembyGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1
     },
     {
@@ -818,7 +795,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_WexNewHuYaGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1
     },
     {
@@ -827,7 +804,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_WexNewDouYuGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1
     },
     {
@@ -836,7 +813,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_WexduanjuvopGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1
     },
     {
@@ -845,7 +822,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_WexduanjuvmpGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1
     },
     {
@@ -854,7 +831,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_Wexduanju001Guard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1
     },
     {
@@ -863,7 +840,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_WexlaobaitingshuGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1
     },
     {
@@ -872,7 +849,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_Wex275tingshuGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1
     },
     {
@@ -881,7 +858,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_WexliyuanGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
       "style": {
         "type": "rect",
@@ -894,8 +871,8 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_BiliGuard",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
       "style": {
         "type": "rect",
@@ -912,7 +889,7 @@
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_BiliGuard",
       "searchable": 0,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "filterable": 1,
       "style": {
         "type": "rect",
@@ -928,7 +905,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_WexLunhuiDJGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0
     },
     {
@@ -937,7 +914,7 @@
       "type": 3,
       "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
       "api": "csp_WexGZsportGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
       "style": {
         "type": "list"
