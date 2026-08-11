@@ -3700,32 +3700,6 @@
       }
     },
     {
-      "key": "Nostr",
-      "name": "🐉双龙Nostr推荐",
-      "type": 3,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0801/00/359c60089176c437e74e96d685b8a72e.jpg;md5;182f3ff054e1a255420840f83b553fe4",
-      "api": "csp_Nostr",
-      "homePage": "https://v.nxog.top/nostr/nostr.html"
-    },
-    {
-      "key": "Nostr2",
-      "name": "🐉双龙Nostr玩偶集",
-      "type": 3,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0801/00/359c60089176c437e74e96d685b8a72e.jpg;md5;182f3ff054e1a255420840f83b553fe4",
-      "api": "csp_Nostr",
-      "homePage": "https://v.nxog.top/nostr/ouge2.html"
-    },
-    {
-      "key": "push_agent",
-      "name": "📢双龙手机｜推送",
-      "type": 3,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0801/00/359c60089176c437e74e96d685b8a72e.jpg;md5;182f3ff054e1a255420840f83b553fe4",
-      "api": "csp_Push",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
       "key": "应用商店",
       "name": "🛒双龙本地包更新",
       "type": 3,
