@@ -3,22 +3,28 @@
 CCTV1综合,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv1hd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786947522&sign=f43151aa8b3ae1554346a06423817108&ev=20260214
 CCTV2财经,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv2hd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786947554&sign=79cefc77352d448a834145bb2ccc7af8&ev=20260214
 CCTV3综艺,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv3hd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786947584&sign=a52e23f5a514ebbbe150825e14f4f855&ev=20260214
-CCTV4中文国际,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv3hd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786947584&sign=a52e23f5a514ebbbe150825e14f4f855&ev=20260214
+CCTV4中文国际,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv4hd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786947608&sign=f46e27bc2140cddc88f51df87d595554&ev=20260214
 CCTV5体育,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv5hd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786947627&sign=67a86ba8523d4ee4dd5c1d70e0a9d624&ev=20260214
-CCTV5+,https://by1.430520.xyz/vip/nxog.php?c=CCTV5+&key=2db
-CCTV6电影,https://by1.430520.xyz/vip/nxog.php?c=CCTV6电影&key=2db
-CCTV7国防军事,https://by1.430520.xyz/vip/nxog.php?c=CCTV7国防军事&key=2db
-CCTV8电视剧,https://by1.430520.xyz/vip/nxog.php?c=CCTV8电视剧&key=2db
-CCTV9纪录,https://by1.430520.xyz/vip/nxog.php?c=CCTV9纪录&key=2db
-CCTV10科教,https://by1.430520.xyz/vip/nxog.php?c=CCTV10科教&key=2db
-CCTV11戏曲,https://by1.430520.xyz/vip/nxog.php?c=CCTV11戏曲&key=2db
-CCTV12社会与法,https://by1.430520.xyz/vip/nxog.php?c=CCTV12社会与法&key=2db
-CCTV13新闻,https://by1.430520.xyz/vip/nxog.php?c=CCTV13新闻&key=2db
-CCTV14少儿,https://by1.430520.xyz/vip/nxog.php?c=CCTV14少儿&key=2db
-CCTV15音乐,https://by1.430520.xyz/vip/nxog.php?c=CCTV15音乐&key=2db
-CCTV17农业农村,https://by1.430520.xyz/vip/nxog.php?c=CCTV17农业农村&key=2db
-CCTV4欧洲,https://by1.430520.xyz/vip/nxog.php?c=CCTV4欧洲&key=2db
+CCTV5+,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv5p&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786948673&sign=908655f29a40131c91f327ca99a10896&ev=20260214
+CCTV6电影,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv6hd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786948351&sign=796c9af84e1340565d80e16b19a2afd7&ev=20260214
+CCTV7国防军事,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv7hd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786948293&sign=85d40a8decbf2dfa937ba032ffb77017&ev=20260214
+CCTV8电视剧,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv8hd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786948392&sign=7adf95dfc8b3e9199567502f96bf6685&ev=20260214
+CCTV9纪录,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv9hd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786948409&sign=ebf6e52218e9c6dc1b7a8882a9719f74&ev=20260214
+CCTV10科教,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv10hd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786948431&sign=6d3455d594339ab014ecf35eb5b19a95&ev=20260214
+CCTV11戏曲,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv11hd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786948456&sign=44f1004c22a2bc2483b26981086b84a5&ev=20260214
+CCTV12社会与法,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv12hd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786948474&sign=0ba0ceae610581f0f4c12077d9263557&ev=20260214
+CCTV13新闻,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv13hd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786948503&sign=06cadaf0444a0a313fac198ac7ef996b&ev=20260214
+CCTV14少儿,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv14hd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786948522&sign=fac13addf659e7e7c6ebad5e79101848&ev=20260214
+CCTV15音乐,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv15hd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786948549&sign=b93debbd795d5b20410e7b8e118a6d39&ev=20260214
+CCTV16奥林匹克,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv16hd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786948578&sign=54b4b956f4ad3fbc022a79273ffd4b47&ev=20260214
+CCTV17农业农村,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv17hd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786948639&sign=2313568d00fb2bd2b64d097d100709d8&ev=20260214
+CCTV4欧洲,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv4o&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786948699&sign=155e8eedd22403f86419b1e7b7d5b2e3&ev=20260214
 CCTV4美洲,https://by1.430520.xyz/vip/nxog.php?c=CCTV4美洲&key=2db
+重温经典,http://47.111.31.246/live1/jsbv2b.m3u8?id=cwjd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786948760&sign=36dfe6ae965ffb6fef15e59cf09470f7&ev=20260214
+CCTV4K超高清,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv4k&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786948861&sign=798335a7bf243bb168cd5a4a7e0f4669&ev=20260214
+CCTV8K超高清,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv8k&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786948899&sign=c77f528b674e922781b166cde11a0392&ev=20260214
+CCTV怀旧剧场,http://47.111.31.246/live1/jsbv2b.m3u8?id=hjjc&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786948923&sign=b20a3664be37914c0e0863fc423d094a&ev=20260214
+CCTV第一剧场,http://47.111.31.246/live1/jsbv2b.m3u8?id=dyjc&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786948995&sign=2a1f060bb72d9f4be2b276c1e601f3e6&ev=20260214
 
 
 
