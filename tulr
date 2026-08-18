@@ -1,4 +1,4 @@
-
+央视频道,#genre#
 CCTV1综合,http://47.97.252.137:81/apptv/cctv1.m3u8
 CCTV2财经,http://47.97.252.137:81/apptv/cctv2.m3u8
 CCTV3综艺,http://47.97.252.137:81/apptv/cctv3.m3u8
@@ -122,6 +122,13 @@ CCTV4美洲,https://by.nxog.fun/vip/nxog.php?c=CCTV4美洲&key=2db
 厦门卫视,http://47.97.252.137:8915/daili/xmws.m3u8?line=0
 三沙卫视,http://47.97.252.137:8915/daili/ssws.m3u8?line=0
 延边卫视,http://47.97.252.137:8915/daili/ybws.m3u8?line=0
+凤凰资讯,http://154.222.30.196:7888/fhx.php?id=info
+凤凰中文,http://154.222.30.196:7888/fhx.php?id=cn
+凤凰香港,http://154.222.30.196:7888/fhx.php?id=hk
+凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+
+香港经典,http://106.52.119.159:1234/625703337
+
 
 
 内蒙古蒙语,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
@@ -192,6 +199,48 @@ CCTV4美洲,https://by.nxog.fun/vip/nxog.php?c=CCTV4美洲&key=2db
 
 
 其他频道,#genre#
+
+TNT Sport1,http://iptv.4666888.xyz/iptv2A.php?id=2
+5号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=4
+6号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=5
+广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=7
+9号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=8
+11号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=10
+12号[1280*720],http://iptv.4666888.xyz/iptv2A.php?id=11
+翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=17
+21号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=20
+astro,http://iptv.4666888.xyz/iptv2A.php?id=21
+MyTV,http://iptv.4666888.xyz/iptv2A.php?id=22
+RTK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+黄金华剧台,http://iptv.4666888.xyz/iptv2A.php?id=24
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+翡翠台2,http://iptv.4666888.xyz/iptv2A.php?id=28
+翡翠明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
+翡翠台3,http://iptv.4666888.xyz/iptv2A.php?id=31
+MyTV2,http://iptv.4666888.xyz/iptv2A.php?id=34
+36号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=35
+39号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=38
+40号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=39
+41号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=40
+42号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=41
+43号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=42
+TVBS新闻台,http://iptv.4666888.xyz/iptv2A.php?id=43
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+47号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=46
+TVBS精彩台,http://iptv.4666888.xyz/iptv2A.php?id=47
+东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
+momo亲子台,http://iptv.4666888.xyz/iptv2A.php?id=49
+51号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=50
+53号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=52
+54号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=53
+55号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=54
+民视,http://iptv.4666888.xyz/iptv2A.php?id=55
+靖天电影台,http://iptv.4666888.xyz/iptv2A.php?id=56
+60号[720*728],http://iptv.4666888.xyz/iptv2A.php?id=59
+龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
+62号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=61
+64号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=63
+
 四海钓鱼,http://47.97.252.137:8915/daili/shdy.m3u8?line=0
 环球旅游,http://47.97.252.137:8915/daili/hqly.m3u8?line=0
 中华特产,http://47.97.252.137:8915/daili/zhtc.m3u8?line=0
