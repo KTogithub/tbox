@@ -4448,6 +4448,14 @@
   ],
   "lives": [
     {
+      "name": "自用",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/KTogithub/tbox/refs/heads/main/tulr",
+      "playerType": 2,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "develop202",
       "type": 0,
       "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
