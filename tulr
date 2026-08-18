@@ -79,6 +79,27 @@ CCTV4美洲,https://by.nxog.fun/vip/nxog.php?c=CCTV4美洲&key=2db
 
 
 
+CCTV1综合,http://159.75.53.167:1117/ysp.php?id=cctv1
+CCTV2财经,http://159.75.53.167:1117/ysp.php?id=cctv2
+CCTV3综艺,http://159.75.53.167:1117/ysp.php?id=cctv3
+CCTV4中文国际,http://159.75.53.167:1117/ysp.php?id=cctv4
+CCTV5体育,http://159.75.53.167:1117/ysp.php?id=cctv5
+CCTV5+,http://159.75.53.167:1117/ysp.php?id=cctv5p
+CCTV6电影,http://159.75.53.167:1117/ysp.php?id=cctv6
+CCTV7国防军事,http://159.75.53.167:1117/ysp.php?id=cctv7
+CCTV8电视剧,http://159.75.53.167:1117/ysp.php?id=cctv8
+CCTV9纪录,http://159.75.53.167:1117/ysp.php?id=cctv9
+CCTV10科教,http://159.75.53.167:1117/ysp.php?id=cctv10
+CCTV11戏曲,http://159.75.53.167:1117/ysp.php?id=cctv11
+CCTV12社会与法,http://159.75.53.167:1117/ysp.php?id=cctv12
+CCTV13新闻,http://159.75.53.167:1117/ysp.php?id=cctv13
+CCTV14少儿,http://159.75.53.167:1117/ysp.php?id=cctv14
+CCTV15音乐,http://159.75.53.167:1117/ysp.php?id=cctv15
+CCTV16奥林匹克,http://159.75.53.167:1117/ysp.php?id=cctv16
+CCTV17农业农村,http://159.75.53.167:1117/ysp.php?id=cctv17
+
+
+
 卫视频道,#genre#
 北京卫视,http://47.97.252.137:8915/daili/bjwshd.m3u8?line=0
 天津卫视,http://47.97.252.137:8915/daili/tjwshd.m3u8?line=0
@@ -201,16 +222,16 @@ CCTV4美洲,https://by.nxog.fun/vip/nxog.php?c=CCTV4美洲&key=2db
 其他频道,#genre#
 
 TNT Sport1,http://iptv.4666888.xyz/iptv2A.php?id=2
-5号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=4
-6号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=5
+sky Sport F1,http://iptv.4666888.xyz/iptv2A.php?id=4
+sky Sport Football,http://iptv.4666888.xyz/iptv2A.php?id=5
 广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=7
-9号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=8
-11号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=10
+翡翠明珠台,http://iptv.4666888.xyz/iptv2A.php?id=8
+博斯高球1,http://iptv.4666888.xyz/iptv2A.php?id=10
 12号[1280*720],http://iptv.4666888.xyz/iptv2A.php?id=11
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=17
-21号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=20
+创世电视,http://iptv.4666888.xyz/iptv2A.php?id=20
 astro,http://iptv.4666888.xyz/iptv2A.php?id=21
-MyTV,http://iptv.4666888.xyz/iptv2A.php?id=22
+MyTV Super,http://iptv.4666888.xyz/iptv2A.php?id=22
 RTK31,http://iptv.4666888.xyz/iptv2A.php?id=23
 黄金华剧台,http://iptv.4666888.xyz/iptv2A.php?id=24
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
@@ -222,7 +243,7 @@ MyTV2,http://iptv.4666888.xyz/iptv2A.php?id=34
 39号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=38
 40号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=39
 41号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=40
-42号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=41
+澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
 43号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=42
 TVBS新闻台,http://iptv.4666888.xyz/iptv2A.php?id=43
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
@@ -230,15 +251,15 @@ TVBS新闻台,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS精彩台,http://iptv.4666888.xyz/iptv2A.php?id=47
 东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 momo亲子台,http://iptv.4666888.xyz/iptv2A.php?id=49
-51号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=50
+ROCK ACTION,http://iptv.4666888.xyz/iptv2A.php?id=50
 53号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=52
-54号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=53
-55号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=54
+FTV 影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
+影迷记录台,http://iptv.4666888.xyz/iptv2A.php?id=54
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
 靖天电影台,http://iptv.4666888.xyz/iptv2A.php?id=56
 60号[720*728],http://iptv.4666888.xyz/iptv2A.php?id=59
 龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
-62号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=61
+中国电影频道,http://iptv.4666888.xyz/iptv2A.php?id=61
 64号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=63
 
 四海钓鱼,http://47.97.252.137:8915/daili/shdy.m3u8?line=0
