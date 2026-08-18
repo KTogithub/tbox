@@ -81,7 +81,8 @@ CCTV卫生健康,http://47.111.31.246/live1/jsbv2b.m3u8?id=wsjk&app=com.chenfeng
 江西卫视,http://47.111.31.246/live1/jsbv2b.m3u8?id=jxwshd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786950088&sign=b72b29e71bd332d746fcc7d60ae2d2f9&ev=20260214
 山东卫视,http://47.111.31.246/live1/jsbv2b.m3u8?id=sdwshd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786949882&sign=e53d176c3858f99af7109be4a2397f16&ev=20260214
 河南卫视,http://47.111.31.246/live1/jsbv2b.m3u8?id=hawshd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786951326&sign=4df8ba17b7fc5b68641ef584e9291880&ev=20260214
-湖南卫视,http://47.111.31.246/live1/jsbv2b.m3u8?id=hnwshd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786949518&sign=97374d340e4a51656abb81e903809fef&ev=20260214
+湖南卫视,http://47.97.252.137:81/apptv/hnws.m3u8
+湖南卫视,http://47.97.252.137:8915/daili/hnwshd.m3u8?line=0
 湖北卫视,http://47.111.31.246/live1/jsbv2b.m3u8?id=hbwshd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786949908&sign=7f08fedd0faf043fb1839328f521163b&ev=20260214
 广东卫视,http://47.111.31.246/live1/jsbv2b.m3u8?id=gdwshd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786949653&sign=f86c4206fc630eee4d855bb330772d21&ev=20260214
 广西卫视,http://47.111.31.246/live1/jsbv2b.m3u8?id=gxwshd&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786950208&sign=debc559829b463e1a7869e1100824a7d&ev=20260214
