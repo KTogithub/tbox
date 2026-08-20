@@ -91,6 +91,96 @@
             "quickSearch": 1,
             "filterable": 1
      }, 
+     {
+            "key": "老播资源",
+            "name": "💖┃老播┃采集",
+            "type": 1,
+            "api": "https://apilsbzy1.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+     }, 
+     {
+            "key": "小播资源",
+            "name": "💖┃小播┃采集",
+            "type": 1,
+            "api": "https://api.xiaojizy.live/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+     }, 
+     {
+            "key": "仓库资源",
+            "name": "💖┃仓库┃采集",
+            "type": 1,
+            "api": "https://hsckzy.xyz/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+     }, 
+     {
+            "key": "大播资源",
+            "name": "💖┃大播┃采集",
+            "type": 1,
+            "api": "https://apidanaizi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+     }, 
+     {
+            "key": "豆豆资源",
+            "name": "💖┃豆豆┃采集",
+            "type": 1,
+            "api": "https://api.douapi.cc/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+     }, 
+     {
+            "key": "滴滴资源",
+            "name": "💖┃滴滴┃采集",
+            "type": 1,
+            "api": "https://api.ddapi.cc/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+     }, 
+     {
+            "key": "黑料资源",
+            "name": "💖┃黑料┃采集",
+            "type": 1,
+            "api": "https://www.heiliaozyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+     }, 
+     {
+            "key": "桃花资源",
+            "name": "💖┃桃花┃采集",
+            "type": 1,
+            "api": "https://thzy1.me/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+     }, 
+     {
+            "key": "CK资源",
+            "name": "💖┃CK┃采集",
+            "type": 1,
+            "api": "https://ckzy.me/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+     }, 
+    {
+        "key": "杏吧资源",
+        "name": "💖┃杏吧┃采集",
+        "type": 1,
+        "api": "https://xingba222.com/api.php/provide/vod",
+        "searchable": 1,
+        "quickSearch": 1,
+        "categories": []
+    }, 
     {
         "key": "AIvin资源",
         "name": "💖┃AIvin┃采集",
