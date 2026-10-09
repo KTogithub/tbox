@@ -19,8 +19,7 @@ CCTV14少儿,http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
 CCTV15音乐,http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
 CCTV16奥林匹克,http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
 CCTV17农业农村,http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
-CCTV4K超高清,http://47.97.252.137:8915/daili/cctv4k.m3u8?line=0
-CCTV8K超高清,http://47.97.252.137:8915/tvlive/cctv8k.m3u8?node=4
+
 
 重温经典,http://bztv.tvbus.cc:8081/cdnlive/cwjd.m3u8
 CCTV怀旧剧场,http://bztv.tvbus.cc:8081/cdnlive/hjjc.m3u8
@@ -39,12 +38,7 @@ CCTV卫生健康,http://bztv.tvbus.cc:8081/cdnlive/wsjk.m3u8
 CHC动作电影,http://bztv.tvbus.cc:8081/cdnlive/chcdz.m3u8
 CHC影迷电影,http://bztv.tvbus.cc:8081/cdnlive/chchd.m3u8
 CHC家庭影院,http://bztv.tvbus.cc:8081/cdnlive/chcjt.m3u8
-CGTN,http://47.97.252.137:8915/daili/cctvnews.m3u8?line=0
-CGTN记录,http://47.97.252.137:8915/daili/cctv9y.m3u8?line=0
-CGTN法语,http://47.97.252.137:8915/daili/cctvf.m3u8?line=0
-CGTN西语,http://47.97.252.137:8915/daili/cctve.m3u8?line=0
-CGTN阿语,http://47.97.252.137:8915/daili/cctva.m3u8?line=0
-CGTN俄语,http://47.97.252.137:8915/daili/cctvr.m3u8?line=0
+
 
 中央新影老故事,bhttp://bztv.tvbus.cc:8081/cdnlive/lgs.m3u8
 中央新影中学生,http://bztv.tvbus.cc:8081/cdnlive/zxs.m3u8
@@ -74,8 +68,6 @@ CCTV17农业农村,http://47.97.252.137:81/apptv/cctv17.m3u8
 CCTV4欧洲,http://47.111.31.246/live1/jsbv2b.m3u8?id=cctv4o&app=com.chenfengtv.tvbox&version=1.0.3&mac=l1:1l:l1:1l:l1:1l&nwtime=1786948699&sign=155e8eedd22403f86419b1e7b7d5b2e3&ev=20260214
 CCTV4美洲,https://by1.430520.xyz/vip/nxog.php?c=CCTV4美洲&key=2db
 重温经典,http://47.97.252.137:81/apptv/cwjd.m3u8
-CCTV4K超高清,http://47.97.252.137:8915/daili/cctv4k.m3u8?line=0
-CCTV8K超高清,http://47.97.252.137:8915/tvlive/cctv8k.m3u8?node=4
 CCTV怀旧剧场,http://47.97.252.137:81/apptv/hjjc.m3u8
 CCTV第一剧场,http://47.97.252.137:81/apptv/dyjc.m3u8
 CCTV风云剧场,http://47.97.252.137:81/apptv/fyjc.m3u8
@@ -89,23 +81,7 @@ CCTV电视指南,http://47.97.252.137:81/apptv/dszn.m3u8
 CCTV高尔夫网球,http://47.97.252.137:81/apptv/gefwq.m3u8
 CCTV央视文化精品,http://47.97.252.137:81/apptv/ysjp.m3u8
 CCTV卫生健康,http://47.97.252.137:81/apptv/wsjk.m3u8
-CHC动作电影,http://47.97.252.137:8915/daili/chcdz.m3u8?line=0
-CHC影迷电影,http://47.97.252.137:8915/daili/chchd.m3u8?line=0
-CHC家庭影院,http://47.97.252.137:8915/daili/chcjt.m3u8?line=0
-CGTN,http://47.97.252.137:8915/daili/cctvnews.m3u8?line=0
-CGTN记录,http://47.97.252.137:8915/daili/cctv9y.m3u8?line=0
-CGTN法语,http://47.97.252.137:8915/daili/cctvf.m3u8?line=0
-CGTN西语,http://47.97.252.137:8915/daili/cctve.m3u8?line=0
-CGTN阿语,http://47.97.252.137:8915/daili/cctva.m3u8?line=0
-CGTN俄语,http://47.97.252.137:8915/daili/cctvr.m3u8?line=0
-中央新影老故事,bhttp://47.97.252.137:8915/daili/lgs.m3u8?line=0
-中央新影中学生,http://47.97.252.137:8915/daili/zxs.m3u8?line=0
-中央新影发现之旅,http://47.97.252.137:8915/daili/fxzl.m3u8?line=0
-CETV1,http://47.97.252.137:8915/daili/cetv1.m3u8?line=0
-CETV2,http://47.97.252.137:8915/daili/cetv2.m3u8?line=0
-CETV3,http://47.97.252.137:8915/daili/cetv3.m3u8?line=0
-CETV4,http://47.97.252.137:8915/daili/cetv4.m3u8?line=0
-CETV早期教育,http://47.97.252.137:8915/daili/zqjy.m3u8?line=0
+
 
 
 
@@ -714,48 +690,17 @@ CETV4,http://mg.cttv.vip/923287339
 三沙卫视,http://bztv.tvbus.cc:8081/cdnlive/ssws.m3u8
 延边卫视,http://bztv.tvbus.cc:8081/cdnlive/ybws.m3u8
 
-北京卫视,http://47.97.252.137:8915/daili/bjwshd.m3u8?line=0
-天津卫视,http://47.97.252.137:8915/daili/tjwshd.m3u8?line=0
-河北卫视,http://47.97.252.137:8915/daili/hewshd.m3u8?line=0
-山西卫视,http://47.97.252.137:8915/daili/sxws.m3u8?line=0
-辽宁卫视,http://47.97.252.137:8915/daili/lnwshd.m3u8?line=0
-内蒙古卫视,http://47.97.252.137:8915/daili/nmgws.m3u8?line=0
+
 内蒙古蒙语,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
-吉林卫视,http://47.97.252.137:8915/daili/jlwshd.m3u8?line=0
-黑龙江卫视,http://47.97.252.137:8915/daili/hljwshd.m3u8?line=0
-东方卫视,http://47.97.252.137:81/apptv/dfws.m3u8
+
+
 江苏卫视,http://47.97.252.137:81/apptv/jsws.m3u8
 浙江卫视,http://47.97.252.137:81/apptv/zjws.m3u8
-安徽卫视,http://47.97.252.137:8915/daili/ahwshd.m3u8?line=0
-东南卫视,http://47.97.252.137:8915/daili/dnwshd.m3u8?line=0
-江西卫视,http://47.97.252.137:8915/daili/jxwshd.m3u8?line=0
-山东卫视,http://47.97.252.137:8915/daili/sdwshd.m3u8?line=0
-河南卫视,http://47.97.252.137:8915/daili/hawshd.m3u8?line=0
+
 湖南卫视,http://47.97.252.137:81/apptv/hnws.m3u8
-湖北卫视,http://47.97.252.137:8915/daili/hbwshd.m3u8?line=0
-广东卫视,http://47.97.252.137:8915/cdnlive/gdws.m3u8
-广西卫视,http://47.97.252.137:8915/daili/gxwshd.m3u8?line=0
-海南卫视,http://47.97.252.137:8915/daili/lywshd.m3u8?line=0
-四川卫视,http://47.97.252.137:8915/daili/scwshd.m3u8?line=0
-康巴卫视,http://47.97.252.137:8915/daili/kbws.m3u8?line=0
-贵州卫视,http://47.97.252.137:8915/daili/gzwshd.m3u8?line=0
-云南卫视,http://47.97.252.137:8915/daili/ynws.m3u8?line=0
-西藏卫视,http://47.97.252.137:8915/daili/xzws.m3u8?line=0
-西藏藏语,http://47.97.252.137:8915/daili/xzzy.m3u8?line=0
-陕西卫视,http://47.97.252.137:8915/daili/snwshd.m3u8?line=0
-甘肃卫视,http://47.97.252.137:8915/daili/gswshd.m3u8?line=0
-青海卫视,http://47.97.252.137:8915/daili/qhws.m3u8?line=0
-安多卫视,http://47.97.252.137:8915/daili/qhzy.m3u8?line=0
-宁夏卫视,http://47.97.252.137:8915/daili/nxws.m3u8?line=0
-新疆卫视,http://47.97.252.137:8915/daili/xjws.m3u8?line=0
-兵团卫视,http://47.97.252.137:8915/daili/btws.m3u8?line=0
+
 海峡卫视,http://47.97.252.137:81/apptv/hxws.m3u8
-深圳卫视,http://47.97.252.137:8915/daili/szwshd.m3u8?line=0
-重庆卫视,http://47.97.252.137:8915/daili/cqwshd.m3u8?line=0
-大湾区卫视,http://47.97.252.137:8915/daili/nfws.m3u8?line=0
-厦门卫视,http://47.97.252.137:8915/daili/xmws.m3u8?line=0
-三沙卫视,http://47.97.252.137:8915/daili/ssws.m3u8?line=0
-延边卫视,http://47.97.252.137:8915/daili/ybws.m3u8?line=0
+
 凤凰资讯,http://154.222.30.196:7888/fhx.php?id=info
 凤凰中文,http://154.222.30.196:7888/fhx.php?id=cn
 凤凰香港,http://154.222.30.196:7888/fhx.php?id=hk
@@ -802,48 +747,10 @@ CETV4,http://mg.cttv.vip/923287339
 
 
 
-北京卫视,http://47.97.252.137:8915/daili/bjwshd.m3u8?line=0
-天津卫视,http://47.97.252.137:8915/daili/tjwshd.m3u8?line=0
-河北卫视,http://47.97.252.137:8915/daili/hewshd.m3u8?line=0
-山西卫视,http://47.97.252.137:8915/daili/sxws.m3u8?line=0
-辽宁卫视,http://47.97.252.137:8915/daili/lnwshd.m3u8?line=0
-内蒙古卫视,http://47.97.252.137:8915/daili/nmgws.m3u8?line=0
+
 内蒙古蒙语,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
-吉林卫视,http://47.97.252.137:8915/daili/jlwshd.m3u8?line=0
-黑龙江卫视,http://47.97.252.137:8915/daili/hljwshd.m3u8?line=0
-东方卫视,http://47.97.252.137:81/apptv/dfws.m3u8
-江苏卫视,http://47.97.252.137:81/apptv/jsws.m3u8
-浙江卫视,http://47.97.252.137:81/apptv/zjws.m3u8
-安徽卫视,http://47.97.252.137:8915/daili/ahwshd.m3u8?line=0
-东南卫视,http://47.97.252.137:8915/daili/dnwshd.m3u8?line=0
-江西卫视,http://47.97.252.137:8915/daili/jxwshd.m3u8?line=0
-山东卫视,http://47.97.252.137:8915/daili/sdwshd.m3u8?line=0
-河南卫视,http://47.97.252.137:8915/daili/hawshd.m3u8?line=0
-湖南卫视,http://47.97.252.137:81/apptv/hnws.m3u8
-湖北卫视,http://47.97.252.137:8915/daili/hbwshd.m3u8?line=0
-广东卫视,http://47.97.252.137:8915/cdnlive/gdws.m3u8
-广西卫视,http://47.97.252.137:8915/daili/gxwshd.m3u8?line=0
-海南卫视,http://47.97.252.137:8915/daili/lywshd.m3u8?line=0
-四川卫视,http://47.97.252.137:8915/daili/scwshd.m3u8?line=0
-康巴卫视,http://47.97.252.137:8915/daili/kbws.m3u8?line=0
-贵州卫视,http://47.97.252.137:8915/daili/gzwshd.m3u8?line=0
-云南卫视,http://47.97.252.137:8915/daili/ynws.m3u8?line=0
-西藏卫视,http://47.97.252.137:8915/daili/xzws.m3u8?line=0
-西藏藏语,http://47.97.252.137:8915/daili/xzzy.m3u8?line=0
-陕西卫视,http://47.97.252.137:8915/daili/snwshd.m3u8?line=0
-甘肃卫视,http://47.97.252.137:8915/daili/gswshd.m3u8?line=0
-青海卫视,http://47.97.252.137:8915/daili/qhws.m3u8?line=0
-安多卫视,http://47.97.252.137:8915/daili/qhzy.m3u8?line=0
-宁夏卫视,http://47.97.252.137:8915/daili/nxws.m3u8?line=0
-新疆卫视,http://47.97.252.137:8915/daili/xjws.m3u8?line=0
-兵团卫视,http://47.97.252.137:8915/daili/btws.m3u8?line=0
-海峡卫视,http://47.97.252.137:81/apptv/hxws.m3u8
-深圳卫视,http://47.97.252.137:8915/daili/szwshd.m3u8?line=0
-重庆卫视,http://47.97.252.137:8915/daili/cqwshd.m3u8?line=0
-大湾区卫视,http://47.97.252.137:8915/daili/nfws.m3u8?line=0
-厦门卫视,http://47.97.252.137:8915/daili/xmws.m3u8?line=0
-三沙卫视,http://47.97.252.137:8915/daili/ssws.m3u8?line=0
-延边卫视,http://47.97.252.137:8915/daili/ybws.m3u8?line=0
+
+
 
 凤凰资讯,http://154.222.30.196:7888/fhx.php?id=info
 凤凰中文,http://154.222.30.196:7888/fhx.php?id=cn
@@ -853,48 +760,17 @@ CETV4,http://mg.cttv.vip/923287339
 
 
 
-北京卫视,http://47.97.252.137:8915/daili/bjwshd.m3u8?line=0
-天津卫视,http://47.97.252.137:8915/daili/tjwshd.m3u8?line=0
-河北卫视,http://47.97.252.137:8915/daili/hewshd.m3u8?line=0
-山西卫视,http://47.97.252.137:8915/daili/sxws.m3u8?line=0
-辽宁卫视,http://47.97.252.137:8915/daili/lnwshd.m3u8?line=0
-内蒙古卫视,http://47.97.252.137:8915/daili/nmgws.m3u8?line=0
+
 内蒙古蒙语,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
-吉林卫视,http://47.97.252.137:8915/daili/jlwshd.m3u8?line=0
-黑龙江卫视,http://47.97.252.137:8915/daili/hljwshd.m3u8?line=0
+
 东方卫视,http://122.227.204.50:1905/651632648
 江苏卫视,http://122.227.204.50:1905/623899368
 浙江卫视,http://47.97.252.137:81/apptv/zjws.m3u8
-安徽卫视,http://47.97.252.137:8915/daili/ahwshd.m3u8?line=0
-东南卫视,http://47.97.252.137:8915/daili/dnwshd.m3u8?line=0
-江西卫视,http://47.97.252.137:8915/daili/jxwshd.m3u8?line=0
-山东卫视,http://47.97.252.137:8915/daili/sdwshd.m3u8?line=0
-河南卫视,http://47.97.252.137:8915/daili/hawshd.m3u8?line=0
+
 湖南卫视,http://47.97.252.137:81/apptv/hnws.m3u8
-湖北卫视,http://47.97.252.137:8915/daili/hbwshd.m3u8?line=0
-广东卫视,http://47.97.252.137:8915/cdnlive/gdws.m3u8
-广西卫视,http://47.97.252.137:8915/daili/gxwshd.m3u8?line=0
-海南卫视,http://47.97.252.137:8915/daili/lywshd.m3u8?line=0
-四川卫视,http://47.97.252.137:8915/daili/scwshd.m3u8?line=0
-康巴卫视,http://47.97.252.137:8915/daili/kbws.m3u8?line=0
-贵州卫视,http://47.97.252.137:8915/daili/gzwshd.m3u8?line=0
-云南卫视,http://47.97.252.137:8915/daili/ynws.m3u8?line=0
-西藏卫视,http://47.97.252.137:8915/daili/xzws.m3u8?line=0
-西藏藏语,http://47.97.252.137:8915/daili/xzzy.m3u8?line=0
-陕西卫视,http://47.97.252.137:8915/daili/snwshd.m3u8?line=0
-甘肃卫视,http://47.97.252.137:8915/daili/gswshd.m3u8?line=0
-青海卫视,http://47.97.252.137:8915/daili/qhws.m3u8?line=0
-安多卫视,http://47.97.252.137:8915/daili/qhzy.m3u8?line=0
-宁夏卫视,http://47.97.252.137:8915/daili/nxws.m3u8?line=0
-新疆卫视,http://47.97.252.137:8915/daili/xjws.m3u8?line=0
-兵团卫视,http://47.97.252.137:8915/daili/btws.m3u8?line=0
+
 海峡卫视,http://47.97.252.137:81/apptv/hxws.m3u8
-深圳卫视,http://47.97.252.137:8915/daili/szwshd.m3u8?line=0
-重庆卫视,http://47.97.252.137:8915/daili/cqwshd.m3u8?line=0
-大湾区卫视,http://47.97.252.137:8915/daili/nfws.m3u8?line=0
-厦门卫视,http://47.97.252.137:8915/daili/xmws.m3u8?line=0
-三沙卫视,http://47.97.252.137:8915/daili/ssws.m3u8?line=0
-延边卫视,http://47.97.252.137:8915/daili/ybws.m3u8?line=0
+
 
 北京卫视,http://45.78.61.93:1234/630287636
 河北卫视,http://45.78.61.93:1234/962042070
@@ -1194,31 +1070,6 @@ CETV4,http://mg.cttv.vip/923287339
 
 
 
-河北频道,#genre#
-河北都市,http://47.97.252.137:8915/daili/heds.m3u8?line=0
-河北经济生活,http://47.97.252.137:8915/daili/hejj.m3u8?line=0
-河北文旅体育,http://47.97.252.137:8915/daili/heys.m3u8?line=0
-河北少儿科教,http://47.97.252.137:8915/daili/hese.m3u8?line=0
-河北三农,http://47.97.252.137:8915/daili/henm.m3u8?line=0
-石家庄新闻综合,http://47.97.252.137:8915/daili/hesjz1.m3u8?line=1
-石家庄文化旅游,http://47.97.252.137:8915/daili/hesjz2.m3u8?line=0
-
-
-
-北京频道,#genre#
-北京文艺,http://47.97.252.137:8915/daili/btv2.m3u8?line=1
-北京纪实科教,http://47.97.252.137:8915/daili/btv3.m3u8?line=0
-北京影视,http://47.97.252.137:8915/daili/btv4.m3u8?line=1
-北京财经,http://47.97.252.137:8915/daili/btv5.m3u8?line=1
-北京体育休闲,http://47.97.252.137:8915/daili/btv6.m3u8?line=0
-北京生活,http://47.97.252.137:8915/daili/btv7.m3u8?line=1
-北京新闻,http://47.97.252.137:8915/daili/btv9.m3u8?line=1
-北京卡酷少儿,http://47.97.252.137:8915/daili/btvkk.m3u8?line=0
-北京延庆,http://47.97.252.137:8915/daili/bjyqtv1.m3u8?line=0
-
-
-河南频道,#genre#
-河南民生,http://47.97.252.137:8915/daili/hatv3.m3u8?line=0
 
 
 
@@ -1268,29 +1119,17 @@ FTV 影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
 中国电影频道,http://iptv.4666888.xyz/iptv2A.php?id=61
 64号[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=63
 
-四海钓鱼,http://47.97.252.137:8915/daili/shdy.m3u8?line=0
-环球旅游,http://47.97.252.137:8915/daili/hqly.m3u8?line=0
-中华特产,http://47.97.252.137:8915/daili/zhtc.m3u8?line=0
+
 嘉佳卡通,http://110.42.52.180:6688/live/live.php?token=CYzgcZPG&id=jjkt
 优漫卡通,http://110.42.52.180:6688/live/live.php?token=CYzgcZPG&id=ymkt
-新动漫,http://47.97.252.137:8915/daili/xdm.m3u8?line=0
+
 江苏教育,http://110.42.52.180:6688/live/live.php?token=CYzgcZPG&id=jsjy
 农林卫视,http://110.42.52.180:6688/live/live.php?token=CYzgcZPG&id=nlws
 中国国际教育1,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 中国国际教育2,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 中国国际教育3,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 中国国际教育4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
-党员教育,http://47.97.252.137:8915/daili/bjdj.m3u8?line=0
-国学频道,http://47.97.252.137:8915/daili/gxpd.m3u8?line=0
-梨园频道,http://47.97.252.137:8915/daili/haly.m3u8?line=2
-武术世界,http://47.97.252.137:8915/daili/hawssj.m3u8?line=0
-文物宝库,http://47.97.252.137:8915/daili/hawwbk.m3u8?line=0
-快乐垂钓,http://47.97.252.137:8915/daili/hnklcd.m3u8?line=0
-金鹰纪实,http://47.97.252.137:8915/daili/hnjyjs.m3u8?line=0
-湖南电影,http://47.97.252.137:8915/daili/hndy.m3u8?line=0
-东方财经,http://47.97.252.137:8915/daili/dfcj.m3u8?line=0
-第一财经,http://47.97.252.137:8915/daili/dycj.m3u8?line=0
-法治天地,http://47.97.252.137:8915/daili/fztd.m3u8?line=0
+
 
 
 山东教育,http://45.78.61.93:1234/609154353
