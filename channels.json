@@ -1,0 +1,125 @@
+[
+	{
+		"id": "1",
+		"text": "央视频道",
+		"children": [
+			{
+				"text": "CCTV1",
+				"url": [
+					"https://www.yangshipin.cn/tv/home?pid=600001859",
+                                                                                "https://tv.cctv.com/live/cctv1/"
+				]
+			}
+		]
+	},
+	{
+		"id": "2",
+		"text": "央视频道",
+		"children": [
+			{
+				"text": "CCTV2",
+				"url": [
+					"https://www.yangshipin.cn/tv/home?pid=600001800",
+					"https://tv.cctv.com/live/cctv2/"
+				]
+			}
+		]
+	},
+	{
+		"id": "3",
+		"text": "央视频道",
+		"children": [
+			{
+				"text": "CCTV3",
+				"url": [
+					"https://www.yangshipin.cn/tv/home?pid=600001801",
+					"https://tv.cctv.com/live/cctv3/"
+				]
+			}
+		]
+	},
+	{
+		"id": "4",
+		"text": "央视频道",
+		"children": [
+			{
+				"text": "CCTV4",
+				"url": [
+					"https://www.yangshipin.cn/tv/home?pid=600001814",
+					"https://tv.cctv.com/live/cctv4/"
+				]
+			}
+		]
+	},
+	{
+		"id": "250",
+		"text": "卫视频道",
+		"children": [
+			{
+				"text": "北京卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002309"
+			}
+		]
+	},
+	{
+		"id": "300",
+		"text": "广东频道",
+		"children": [
+			{
+				"text": "广东卫视",
+				"url": "https://www.gdtv.cn/tvChannelDetail/43"
+			}
+		]
+	},
+	{
+		"id": "400",
+		"text": "地方频道",
+		"children": [
+			{
+				"text": "深圳都市频道",
+				"url": "https://www.sztv.com.cn/dianshi.shtml?id=7868"
+			}
+		]
+	},
+	{
+		"id": "500",
+		"text": "动漫剧场",
+		"children": [
+			{
+				"text": "小猪佩奇 第一季",
+				"url": [
+					"https://www.bilibili.com/bangumi/play/ss37587",
+					"https://www.bilibili.com/bangumi/play/ep375714",
+					"https://www.bilibili.com/bangumi/play/ep375715"
+				],
+				"alias": [
+					"第一集",
+					"第二集",
+					"第三集"
+				]
+			},
+			{
+				"text": "狐狐动画城",
+				"url": "https://live.bilibili.com/30837590?live_from=84001"
+			}
+		]
+	},
+	{
+		"id": "600",
+		"text": "其他直播",
+		"children": [
+			{
+				"text": "哔哩哔哩直播首页",
+				"url": "https://live.bilibili.com/"
+			},
+			{
+				"text": "抖音直播首页",
+				"url": "https://live.douyin.com/"
+			},
+			{
+				"text": "虎牙直播首页",
+				"url": "https://www.huya.com/"
+			}
+		]
+	}
+]
