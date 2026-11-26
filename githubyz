@@ -1151,6 +1151,18 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "央视频",
+      "api": "./yangshipin.py",
+      "ext": {},
+      "type": 3
+    },
+    {
+      "name": "央视频网链",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/yangshipin.py",
+      "ext": {},
+      "type": 3
+    },
+    {
       "name": "自测",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/KTogithub/tbox/refs/heads/main/turl",
